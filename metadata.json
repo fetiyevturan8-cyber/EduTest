@@ -1,0 +1,8 @@
+{
+  "name": "EduTest Global System v2",
+  "description": "Redesigned Education Platform with Secure Authentication and Global Database Management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
